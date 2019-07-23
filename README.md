@@ -1,2 +1,2 @@
 # UART
-Verilog UART implementation
+Verilog UART implementation, built for university's Logic Design course
